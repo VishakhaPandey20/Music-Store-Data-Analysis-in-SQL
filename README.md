@@ -1,4 +1,4 @@
-![Screenshot (309)](https://github.com/user-attachments/assets/1cd172e6-7ff5-4ea4-a6fe-63922c7de535)
+file:///C:/Users/VISHAKHA%20PANDEY/Downloads/SQL%20Project.pdf
 
 ### **🎵 Music Store Data Analysis in SQL 📊**  
 
