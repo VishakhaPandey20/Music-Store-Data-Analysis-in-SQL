@@ -1,5 +1,3 @@
-file:///C:/Users/VISHAKHA%20PANDEY/Downloads/SQL%20Project.pdf
-
 ### **🎵 Music Store Data Analysis in SQL 📊**  
 
 ---
