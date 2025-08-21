@@ -33,8 +33,5 @@ My mission? **To analyze the data and provide insights** for strategic decision-
 ### **🎯 Impact:**  
 🚀 This project delivered **actionable insights** into **customer behavior, top-performing artists, and revenue trends**. The findings help the company **optimize marketing strategies and event planning** for maximum impact!  
 
-Linkedin : https://www.linkedin.com/posts/manish-analyst_music-store-data-analysis-in-sql-activity-7337201259214491648-U53S?utm_source=share&utm_medium=member_desktop&rcm=ACoAADurgCUBTjM8Fit6ka2-Rx4Zt3V4lQXwF2Q
-
-
 ---
 
